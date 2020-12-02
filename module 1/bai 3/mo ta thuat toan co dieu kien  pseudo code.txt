@@ -1,0 +1,19 @@
+Start
+Input Điểm
+IF điểm >= 75
+   Xếp loại A 
+End IF
+IF 60 =< điểm < 75
+   Xếp loại B
+End IF
+IF 45 <= điểm < 60
+   Xếp loại C 
+End IF
+IF 35 <= điểm < 45
+   Xếp loại D
+End IF 
+IF điểm < 35
+   Xếp loại E
+End if
+End
+

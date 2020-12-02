@@ -1,0 +1,8 @@
+Start
+Input điểm toán
+Input điểm lý
+Input điểm hóa
+Điểm trung bình = ( điểm toán + lý + hóa )/3
+Display Điểm trung bình
+End
+

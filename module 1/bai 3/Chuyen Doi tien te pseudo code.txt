@@ -1,0 +1,6 @@
+Start
+Input N là số tiền đô la Mỹ
+Số tiền Việt Nam Đồng = 23000 x N
+Display Số Tiền Việt Nam Đồng
+End
+
